@@ -1,0 +1,2 @@
+web: gunicorn email_parser:app
+
